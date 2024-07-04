@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """
 Module 3-to_str
-Defines a function to_str which takes a float and returns its string representation.
+Defines a function to_str which takes a float and
+      returns its string representation.
 """
 
 
