@@ -17,7 +17,8 @@ def safe_first_element(lst: Sequence[Any]) -> Union[Any, None]:
         lst (Sequence[Any]): A sequence of elements of any type.
 
     Returns:
-        Union[Any, None]: The first element of lst if not empty, otherwise None.
+        Union[Any, None]: The first element of lst if not empty,
+           otherwise None.
     """
     if lst:
         return lst[0]
