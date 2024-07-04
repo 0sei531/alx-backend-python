@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """
 Module 100-safe_first_element
-Defines a function safe_first_element that safely returns the first element of a sequence or None if the sequence is empty.
+Defines a function safe_first_element that safely returns the first
+    element of a sequence or None if the sequence is empty.
 """
 
 
