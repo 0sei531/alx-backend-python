@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Description: A module that defines a function concat which takes 
+Description: A module that defines a function concat which takes
         two strings and returns their concatenation.
 """
 
