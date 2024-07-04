@@ -7,6 +7,7 @@ Description: A module that defines a function floor which takes a float n
 
 import math
 
+
 def floor(n: float) -> int:
     """
     Return the largest int value less than or equal to n.
