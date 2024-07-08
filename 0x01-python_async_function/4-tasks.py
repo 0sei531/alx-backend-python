@@ -15,7 +15,7 @@ async def task_wait_n(n: int, max_delay: int = 10) -> List[float]:
     """
     Execute task_wait_random n times with the specified max_delay
     and return the list of delays in ascending order.
-    
+
     Args:
     n (int): Number of times to call task_wait_random.
     max_delay (int): Maximum delay for task_wait_random.
