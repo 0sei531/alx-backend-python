@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """
-This module contains a coroutine that collects random numbers using an async comprehension.
+This module contains a coroutine that collects random
+numbers using an async comprehension.
 """
 
 from asyncio import sleep
